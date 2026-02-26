@@ -1,0 +1,8 @@
+.docx
+__pycache__
+.env
+.venv
+openapply.db
+openapply_agent.egg-info/
+.DS_Store
+
